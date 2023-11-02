@@ -149,9 +149,9 @@
       width: 100%;
       text-align: left;
       color: var(--black-color);
-      font-size: 14px;
+      font-size: 15px;
       margin: 0px;
-      font-weight: 500;
+      font-weight: 600;
     }
 
     .harga-item {

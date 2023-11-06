@@ -344,7 +344,7 @@
     }
 
     .btn-ubah {
-      background: var(--orange-color);
+      background: var(--gray-color);
       color: var(--white-color);
       width: 95% !important;
       font-size: 14px;
